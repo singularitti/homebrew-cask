@@ -20,7 +20,6 @@ cask "claudebar" do
     "~/Library/Application Support/ClaudeBar",
     "~/Library/Caches/com.tddworks.claudebar",
     "~/Library/Caches/ClaudeBar",
-    "~/Library/Caches/com.tddworks.claudebar",
     "~/Library/HTTPStorages/com.tddworks.claudebar",
     "~/Library/Logs/ClaudeBar",
     "~/Library/Preferences/ClaudeBar.plist",
